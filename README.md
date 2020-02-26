@@ -10,7 +10,7 @@ Manage components state, by responding to user events.
 
 #### Page Preview:
 
-![Page Preview](/images/ftStart.png)
+![Page Preview](./img/employeeTracker.png)
 
 #### Technologies:
 
